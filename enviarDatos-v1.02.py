@@ -11,7 +11,7 @@ import threading
 VERSION = "v1.02.2025.03.20"
 
 # Cambios:
-# 2025-03-20 09:31 = Cambiar character set de utf8mb4 para agarrar de charser en config.ini -> v1.02.2025.03.20
+# 2025-03-20 09:31 = Cambiar character set de utf8mb4 para agarrar de charset en config.ini -> v1.02.2025.03.20
 # ini 
 config = configparser.ConfigParser()
 config.read('config.ini')
